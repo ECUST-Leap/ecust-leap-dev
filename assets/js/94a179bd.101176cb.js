@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkecust_leap_handbook=self.webpackChunkecust_leap_handbook||[]).push([[8442],{2440:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/ecust-leap-dev/blog/tags/hola","allTagsPath":"/ecust-leap-dev/blog/tags","count":1}')}}]);
