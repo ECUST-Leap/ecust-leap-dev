@@ -11,7 +11,7 @@
         <item>
             <title><![CDATA[Hello]]></title>
             <link>https://your-docusaurus-test-site.com/ecust-leap-dev/blog/hello</link>
-            <guid>hello</guid>
+            <guid>https://your-docusaurus-test-site.com/ecust-leap-dev/blog/hello</guid>
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello!]]></description>
             <content:encoded><![CDATA[<p>Hello!</p>]]></content:encoded>
