@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkecust_leap_handbook=globalThis.webpackChunkecust_leap_handbook||[]).push([[9457],{8059(e){e.exports=JSON.parse('{"permalink":"/ecust-leap-dev/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
